@@ -1,0 +1,9 @@
+*
+!vendor
+!vendor/**
+!TSDef
+!TSDef/**
+!src
+!src/**
+!.gitignore
+!index.html
